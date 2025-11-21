@@ -1,96 +1,96 @@
-<p align="center">
-  <img src="{{url('./images/img/capture.png')}}" width="800">
-</p>
+<div align="center">
+  <img src="./images/img/capture.png" width="800" alt="Aperçu du site comZ"/>
+</div>
 
-📝 Description
+# 🧠 comZ — Agence de Communication & Stratégie Digitale
 
-comZ est une agence de communication et de marketing spécialisée dans :
+comZ est une agence spécialisée dans la **création de contenus visuels**, la **stratégie digitale** et la **production audiovisuelle**.  
+Nous aidons les entreprises, marques et personnalités à améliorer leur image, accroître leur notoriété et renforcer leur impact grâce à des solutions **créatives**, **modernes** et **sur mesure**.
 
-La création de contenus visuels
+De nombreux acteurs ne maîtrisent pas pleinement leur communication digitale.  
+Notre mission est de leur offrir des services **cohérents**, **professionnels**, et parfaitement adaptés à leurs objectifs.
 
-La stratégie digitale
+---
 
-La production audiovisuelle
+## 🎯 Objectif du Projet
 
-Nous accompagnons les entreprises, marques et personnalités à renforcer leur image, leur notoriété et leur impact, grâce à des solutions créatives, efficaces et sur mesure.
+Ce projet consiste à développer un **site web moderne, immersif et responsive** pour l’agence comZ afin de :
 
-Trop d’acteurs ne maîtrisent pas suffisamment leur communication : notre mission est de leur offrir des services complets, cohérents et professionnels afin de valoriser leur identité et leurs objectifs.
+- Présenter clairement les services proposés  
+- Mettre en avant notre expertise  
+- Exposer les réalisations (portfolio)  
+- Faciliter les demandes de contact et de services  
+- Offrir une expérience utilisateur fluide et professionnelle  
 
-🎯 Objectifs du projet
+---
 
-Ce projet consiste à développer un site web moderne et immersif pour l’agence comZ, permettant de :
+## 📂 Structure du Site
 
-Présenter clairement nos services
+### 🏠 1. **Page d’Accueil (Home)**
+- Slider dynamique  
+- Slogan : **Contenus impactants & Stratégie Digitale**  
+- Bouton : **Découvrir nos offres**  
+- Aperçu des domaines d’expertise  
+- Aperçu des services  
 
-Valoriser notre expertise
+---
 
-Mettre en avant notre portfolio
+### 🧩 2. **À propos (About)**
+- Présentation de l’agence  
+- Vision & mission  
+- Valeurs fondamentales  
+- Approche stratégique  
 
-Faciliter les demandes de contact et services
+---
 
-Proposer une expérience utilisateur fluide, esthétique et professionnelle
+### 🛠️ 3. **Nos Offres / Services**
+Services proposés :
 
-📂 Structure du site
-🏠 1. Page d’Accueil (Home)
+- Création de contenus visuels  
+- Stratégie digitale  
+- Marketing opérationnel  
+- Gestion des réseaux sociaux  
+- Production audiovisuelle  
+- Branding & identité visuelle  
 
-Slider dynamique
+---
 
-Slogans forts : Contenus impactants & Stratégie Digitale
+### 🖼️ 4. **Portfolio (Projets)**
+- Galerie de réalisations  
+- Études de cas  
+- Objectifs clients & résultats obtenus  
 
-Bouton d’appel à l’action : Découvrir nos offres
+---
 
-Aperçu des domaines d’expertise
+### 💬 5. **Contact**
+- Formulaire de contact  
+- Bouton *Demander un service*  
+- Coordonnées complètes  
+- Localisation  
 
-Aperçu des services
+---
 
-🧩 2. À propos (About)
+### 📩 6. **Footer**
+- Réseaux sociaux  
+- Mentions légales  
+- Email et téléphone  
 
-Présentation de l’agence
+---
 
-Vision & mission
+## 🚀 Technologies utilisées
+- HTML / CSS  
+- TailwindCSS  
+- JavaScript  
+- React (si applicable)  
+- SwiperJS (slider)  
 
-Valeurs et philosophie
+---
 
-Notre approche stratégique
+## 📸 Captures d’Écran
 
-🛠️ 3. Nos Offres / Services
+Ajoute toutes tes autres captures ici :
 
-Page dédiée présentant les services suivants :
-
-Création de contenus visuels
-
-Stratégie digitale
-
-Marketing opérationnel
-
-Gestion des réseaux sociaux
-
-Production audiovisuelle
-
-Branding & identité visuelle
-
-🖼️ 4. Portfolio (Projets)
-
-Galerie de réalisations
-
-Études de cas
-
-Présentation client, objectifs, résultats
-
-💬 5. Contact
-
-Formulaire de contact
-
-Bouton “Demander un service”
-
-Coordonnées
-
-Localisation
-
-📩 6. Footer
-
-Réseaux sociaux
-
-Mentions légales
-
-Email et téléphone
+```md
+<div align="center">
+  <img src="./images/img/capture.png" width="800" alt="Aperçu de la page d'accueil"/>
+</div>
