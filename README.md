@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/img/capture.png" width="800" alt="Aperçu du site comZ"/>
+  <img src="/public/images/img/capture.png" width="800" alt="Aperçu du site comZ"/>
 </div>
 
 # 🧠 comZ — Agence de Communication & Stratégie Digitale
