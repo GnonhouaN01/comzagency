@@ -84,13 +84,3 @@ Services proposés :
 - React (si applicable)  
 - SwiperJS (slider)  
 
----
-
-## 📸 Captures d’Écran
-
-Ajoute toutes tes autres captures ici :
-
-```md
-<div align="center">
-  <img src="./images/img/capture.png" width="800" alt="Aperçu de la page d'accueil"/>
-</div>
